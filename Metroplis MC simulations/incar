@@ -1,0 +1,10 @@
+struct,NUMofComponent,N_final, T_final, NT_sample, NN? (5)
+2, structure
+3, NumofComponent
+100000, NumofCalculation
+300, T_initial
+300, T_final
+1, NT_sample
+0, Nearest_Neighbor(1)
+0, Cooling(1)
+0, show_atomic_label(1)(usually_need_to_check)
