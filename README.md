@@ -1,6 +1,6 @@
 # Code-Monte-Carlo-SRO
 
-This repository includes scripts/codes that we used to calculate temperature-dependent short-range-order parameters for complex concentrated alloys.
+This repository includes scripts/codes that we used to calculate temperature-dependent short-range-order parameters for complex concentrated alloys. The open-source code is free to distribute and share under the MIT license.
 
 This is mainly a Python code tested on Python 3.6 with Mac OS 11.0.1. It is expected to run in different operation systems as long as Python3 works.
 
