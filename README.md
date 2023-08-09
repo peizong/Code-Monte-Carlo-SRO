@@ -59,9 +59,9 @@ python plot_dos.py
 ### Other related codes/tools
 The drivers of the Metroplis Monte Carlo and Wang-Landau Monte Carlo can be found in other repositories. 
 
-#### Metropolis
+#### Metropolis Monte-Carlo code
 For Metropolis, please refer to https://github.com/peizong/Simulated-Annealing-Metropolis-MC-.
 
-#### Wang-Landau
+#### Wang-Landau Monte-Carlo code
 
 For Wang-Landau, please refer to https://github.com/peizong/WL-CE.
